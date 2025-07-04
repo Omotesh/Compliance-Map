@@ -1,1 +1,2 @@
 # Compliance-Map
+I created a compliance map for FinTesh financial services identifying applicable regulations and relevant compliance frameworks.  I also explain how each selected regulation applies to the operations, data handling, and systems of the FinTesh. I Mapped out how the regulations affect cybersecurity practices—including data protection, access control, logging, encryption, breach reporting. Finally, i analysed potential consequences of non-compliancenad potential overlaps between standards.
